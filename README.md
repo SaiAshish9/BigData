@@ -107,7 +107,12 @@ easy and fast. This is known as parallel processing.
 
 <img width="1001" alt="Screenshot 2023-03-24 at 8 39 09 PM" src="https://user-images.githubusercontent.com/43849911/227564187-9e411308-9294-4469-9cb1-e3f5f2241e04.png">
 
-```
+<img width="656" alt="Screenshot 2023-03-24 at 8 42 24 PM" src="https://user-images.githubusercontent.com/43849911/227565460-f89dbfe4-e928-4c82-aa05-9ba1dfdf5673.png">
 
 ```
+Now that we've stored and processed the big data. We can analyze this data in numerous applications.
+```
+
+<img width="972" alt="Screenshot 2023-03-24 at 8 43 40 PM" src="https://user-images.githubusercontent.com/43849911/227565783-6ab60f77-98f1-483b-b2de-33cf4cdc05fc.png">
+
 
