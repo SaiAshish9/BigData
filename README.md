@@ -1,7 +1,5 @@
 https://github.com/SaiAshish9/ApacheCassandra
 
-
-
 ```
 We'll use smart phones , but we never imagined how much data it 
 generates in terms of text, email, photos, videos, searches and music.
