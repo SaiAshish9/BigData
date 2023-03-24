@@ -125,3 +125,22 @@ the customer churn rate.
 <img width="1168" alt="Screenshot 2023-03-24 at 8 46 56 PM" src="https://user-images.githubusercontent.com/43849911/227566604-5720d8a6-1495-426a-b047-e0c5ed4aa600.png">
 
 <img width="1187" alt="Screenshot 2023-03-24 at 8 47 38 PM" src="https://user-images.githubusercontent.com/43849911/227566769-108a7eff-e89a-446e-b18c-30536c98dd28.png">
+
+```
+Similary big data can help in disaster management such as hurricane sandy which
+came in 2012.
+
+It's used to understand the storms on east cost of the USA.
+And necessary measures were taken.
+
+It could predict the hurricane's landfall five days in advance which wasn't  possible earlier.
+
+Hence, big data is much valued once its processed and analyzed.
+
+```
+
+<img width="1212" alt="Screenshot 2023-03-24 at 8 50 00 PM" src="https://user-images.githubusercontent.com/43849911/227567382-9e18533a-8d20-4e10-b8ba-9e33bcb654cc.png">
+
+<img width="1063" alt="Screenshot 2023-03-24 at 8 51 17 PM" src="https://user-images.githubusercontent.com/43849911/227567728-3a91d101-8ab8-45b8-b6ae-f07d80550127.png">
+
+
