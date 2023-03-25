@@ -21,6 +21,10 @@ Hurricane Sandy:
 
 https://www.youtube.com/watch?v=RYu6rzzbQFM
 
+Redshift:
+
+https://www.youtube.com/watch?v=7bfOllAyxlg
+
 ```
 We'll use smart phones , but we never imagined how much data it 
 generates in terms of text, email, photos, videos, searches and music.
