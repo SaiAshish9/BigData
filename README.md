@@ -10,6 +10,10 @@ https://github.com/SaiAshish9/Spark_Hive
 
 https://github.com/SaiAshish9/HBase
 
+https://github.com/SaiAshish9/Realtime-logs-analysis-using-Splunk
+
+https://github.com/SaiAshish9/Splunk-Alerts
+
 HBase Vs Cassandra Vs MongoDB:
 https://logz.io/blog/nosql-database-comparison/
 
