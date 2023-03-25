@@ -17,6 +17,10 @@ https://github.com/SaiAshish9/Splunk-Alerts
 HBase Vs Cassandra Vs MongoDB:
 https://logz.io/blog/nosql-database-comparison/
 
+Hurricane Sandy:
+
+https://www.youtube.com/watch?v=RYu6rzzbQFM
+
 ```
 We'll use smart phones , but we never imagined how much data it 
 generates in terms of text, email, photos, videos, searches and music.
